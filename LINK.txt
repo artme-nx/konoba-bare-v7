@@ -1,6 +1,0 @@
-Konoba Bare — v7 (FINALNA — klijentova v5 + gate nadogradnje: self-host fontovi, SEO/schema, a11y, GDPR karta, lokalne slike)
-Live URL: https://artme-nx.github.io/konoba-bare-v7/
-Repo URL: https://github.com/artme-nx/konoba-bare-v7
-Account: artme-nx
-Objavljeno: 2026-07-01
-Baza: Desktop "final bare/v5" (klijent odabrao, tekst final)
